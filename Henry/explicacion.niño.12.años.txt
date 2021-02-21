@@ -1,0 +1,15 @@
+
+* Variables: Es una bolsa o contenedor en donde guardo un valor, para utilizarlo en el futuro.
+
+* Strings: Es una restriccion que le dice al sistema que la variable almacenara bloques o cadenas de texto, 
+           palabras o frases que iran entre comillas que encierran el texto.
+           
+* Funciones (argumentos, `return`): Las funciones son las operaciones con las que relaciono y utilizo las variables. 
+                                    Los argumentos son los valores que le doy a la funcion para que lleve a cabo su operacion.
+                                    Con return le doy la orden al sistema para que me arroje el valor resultante de la funcion.
+
+* Declaraciones `if`: El if es un operador que nos ayuda a evaluar condiciones que nos permitan tomar una decisión para que asi el sistema nos pueda 
+                      arrojar un resultado de acuerdo con las condiciones programadas.
+
+* Valores booleanos (`true`, `false`): En Java Script es una variable de tipo logico que nos permite comparar condiciones teniendo en cuenta unicamente 
+                                       los valores, true o false, para comparar. 
