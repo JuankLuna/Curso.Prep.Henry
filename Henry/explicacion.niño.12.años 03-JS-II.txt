@@ -1,0 +1,14 @@
+* `for`: En Java es conocido como un bucle, que es una expresion que nos permite formular un proceso repetitivo, como el enumerar del 1 al 1000, 
+         entonces para no dar una orden al sistema por cada numero que debe escribir (serian 1000 ordenes), se utiliza esta expresion que nos 
+         permite decirle al sistema que queremos que cierto proceso se realice, comenzando en un punto designado, que termine en un punto especifico
+         y que lo haga de cierta forma.
+         ejemplo: enumerar del 1 al 1000 podria ser: for(var i = 1: i <= 1000: i++) 
+                                                     empieza en el 1 : termina en 1000 : ve aumentando de a 1   
+
+
+* `&&`, `||`, `!`: Son los llamados operadores lógicos en Java script, estos son codigos que nos permiten relacionar informacion que hemos 
+                   almacenado (Variables) y asi poder obtener las respuestas que esperamos.
+
+                   Su traduccion seria:  `&&` --- "y"      Ejemplos: a y b son mayores que 0 --- a > 0 && b > 0  
+                                         `||` --- "o"                a o b es igual a 0      --- a === 0 || b === 0
+                                          `!` --- "opuesto"          falso                   --- !true 
