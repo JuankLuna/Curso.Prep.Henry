@@ -1,0 +1,2 @@
+* Arrays: Es una bolsa o contenedor en donde guardo una coleccion de elementos, para asi invocarlos en el futuro e incluso 
+          realizar operaciones con un elemento determinado o con todos los elementos guardados en el array.
