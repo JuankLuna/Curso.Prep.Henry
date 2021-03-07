@@ -1,0 +1,18 @@
+* Objetos: Es una entidad que tiene un conjunto de propiedades que lo caracterizan.
+
+
+* Propiedades: Son variables en donde se almacenan las caracteristicas de un objeto. 
+
+
+* Métodos:Son funciones o calculos almacenados como propiedades de un objeto.
+
+
+* Bucle `for…in`: Es el bucle o accion repetitiva que nos permite recorrer las propiedades de un objeto.
+
+
+* Notación de puntos vs notación de corchetes: La notacion de puntos, es una manera de Javascript que nos permite llamar o agregar
+                                               los valores de las propiedades de un objeto. El metodo de corchetes es otra
+                                               manera de Javascript para llamar o agregar valores de las propiedades de un objeto, sin 
+                                               embargo esta forma nos permite llamar ese valor por el nombre de referencia asi tenga espacios o caracteres diferentes.
+                                            
+
