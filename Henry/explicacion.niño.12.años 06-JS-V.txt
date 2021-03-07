@@ -1,0 +1,9 @@
+* `prototype`: Es la manera en que guardas un metodo para aplicarselo a los diferentes objetos, para asi no tener que crear multiples metodos por cada objeto, lo
+               que resultaria en uso excesivo e innecesario de memoria. Esto minimiza el uso de memoria porque el metodo se guardaria una sola vez por medio de 
+               la manera prototype.
+
+
+* _Constructors_ (de Clases): El constructor es un metodo que es llamado automaticamente solo cuando se crea un objeto, en java el metodo constructor de las clases 
+                              para un objeto se llama con la llave new.
+
+
