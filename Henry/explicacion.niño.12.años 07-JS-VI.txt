@@ -1,0 +1,6 @@
+* Funciones Callback: Es una funcion que se llama dentro de otra funcion como argumento para que se ejecute cuando suceda un evento en especifico y no antes.
+                      Por ejemplo si una primera funcion (que quiero que se ejecute primero) se demora mas tiempo en procesar que una segunda funcion (que quiero 
+                      que se ejecute luego de la primera), utilizo un callback para que la segunda funcion se ejecute hasta despues de que se ejecute la primera 
+                      funcion y no antes sin importar el tiempo que se demoran en procesar cada una.
+                      
+                      Si solo se escribieran las funciones por separado, el resultado que me mostraria primero el sistema es la que se demore menos en ejecutarse.
